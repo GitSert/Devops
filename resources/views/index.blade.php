@@ -5,7 +5,7 @@
 @section ('content')
 
     <div style="text-align: center">
-        <h1 style="margin-top: 5%">Welcome</h1>
+        <h1 style="margin-top: 5%">Hello!</h1>
     </div>
 
 @endsection()
